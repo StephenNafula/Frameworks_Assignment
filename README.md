@@ -5,6 +5,7 @@ This project analyzes the [CORD-19 dataset](https://www.kaggle.com/allen-institu
 ---
 
 ##  Project Structure
+```bash
 Frameworks_Assignment/
 │
 ├── data/ # Place metadata.csv here
@@ -13,7 +14,7 @@ Frameworks_Assignment/
 ├── app.py # Streamlit web application
 ├── requirements.txt # Python dependencies
 └── README.md # Documentation
-
+```
 ---
 
 ##  Installation
